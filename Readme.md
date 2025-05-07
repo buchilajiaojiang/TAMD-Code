@@ -52,9 +52,6 @@ python time_series_lstm.py \
 ```
 # Dataset
 The datasets can be found at the following links:
-- [Etth]
-- [Exchange rate]
-- [Sale Dataser]
 
 
 
